@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from routes.user import user
 
+#Implementar las operaciones CRUD en una API REST con FastAPI
 
 app = FastAPI()
 
